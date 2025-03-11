@@ -25,7 +25,7 @@ final class UserDefaultsManager {
     
     func setupDefaults() {
         setupDefaultOnboardingKey()
-        setFirstLaunchChecked()
+        setupDefaultFirstLaunchKey()
     }
 }
 
